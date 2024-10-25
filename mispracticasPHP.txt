@@ -1,1 +1,1 @@
-
+los ejercicios de php nos enseñaba a poner nustro nombre en aletario y hacer array
